@@ -19,3 +19,13 @@ I am gathering important resources for myself as a repository.
 ### GitHub Actions:
 
 1. https://help.github.com/en/actions/automating-your-workflow-with-github-actions - GitHub Actions documentation.
+
+## Deployment:
+
+### Kubernetes:
+
+1. https://kubernetes.io/docs/tutorials/kubernetes-basics/ - Kubernetes documentation.
+
+### Docker:
+
+
