@@ -8,9 +8,14 @@ I am gathering important resources for myself as a repository.
 1. https://pep8.org/ - PEP8 formatting guide.
 2. https://github.com/klen/pylama - Comprehensive tool that wraps code analysis tools.
 
-## Testing
+## Testing:
 
 1. https://selenium-python.readthedocs.io/getting-started.html - Selenium getting started docs.
+
+## Machine Learning:
+
+1. https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/ - Comprehensive book on Machine Learning by @leonardoaraujosantos
+2. https://www.wandb.com/tutorials - Examples
 
 ## Visualization:
 
