@@ -33,6 +33,10 @@ I am gathering important resources for myself as a repository.
 
 # Deployment:
 
+## Docker:
+
+1. https://training.play-with-docker.com/ - Docker practical basics.
+
 ## Kubernetes:
 
 1. https://kubernetes.io/docs/tutorials/kubernetes-basics/ - Kubernetes documentation.
