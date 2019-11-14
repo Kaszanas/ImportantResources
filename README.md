@@ -23,6 +23,10 @@ I am gathering important resources for myself as a repository.
 
 # GitHub:
 
+## Git:
+
+1. https://multiplestates.wordpress.com/2015/02/05/rename-a-local-and-remote-branch-in-git/ - Renaming branches.
+
 ## GitHub Actions:
 
 1. https://help.github.com/en/actions/automating-your-workflow-with-github-actions - GitHub Actions documentation.
