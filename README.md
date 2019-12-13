@@ -21,6 +21,10 @@ I am gathering important resources for myself as a repository.
 
 1. https://www.labri.fr/perso/nrougier/python-opengl/ - Python & OpenGL for Scientific Visualization.
 
+### Underrated packages:
+
+1. https://towardsdatascience.com/the-most-underrated-python-packages-e22bf6049b5e
+
 ## Front-End:
 
 # Elm:
