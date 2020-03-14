@@ -16,6 +16,7 @@ I am gathering important resources for myself as a repository.
 
 1. https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/ - Comprehensive book on Machine Learning by @leonardoaraujosantos
 2. https://www.wandb.com/tutorials - Examples
+3. https://koaning.io/ - One of the speakers from PyData 2019 with important fairness remarks.
 
 ## Visualization:
 
