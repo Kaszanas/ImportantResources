@@ -18,6 +18,13 @@ I am gathering important resources for myself as a repository.
 2. https://www.wandb.com/tutorials - Examples
 3. https://koaning.io/ - One of the speakers from PyData 2019 with important fairness remarks.
 
+### Machine Learning with audio:
+
+1. https://towardsdatascience.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis-615e286fcbbc
+2. https://medium.com/@mikesmales/sound-classification-using-deep-learning-8bc2aa1990b7
+3. https://reference.wolfram.com/language/tutorial/NeuralNetworksAudioAnalysis.html
+4. https://www.kdnuggets.com/2017/12/audio-classifier-deep-neural-networks.html
+
 ## Visualization:
 
 1. https://www.labri.fr/perso/nrougier/python-opengl/ - Python & OpenGL for Scientific Visualization.
