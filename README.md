@@ -18,6 +18,10 @@ I am gathering important resources for myself as a repository.
 2. https://www.wandb.com/tutorials - Examples
 3. https://koaning.io/ - One of the speakers from PyData 2019 with important fairness remarks.
 
+### Machine Learning with photo/video:
+
+1. https://www.groundai.com/project/deep-white-balance-editing/1 - Deep White Balance
+
 ### Machine Learning with audio:
 
 1. https://towardsdatascience.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis-615e286fcbbc
